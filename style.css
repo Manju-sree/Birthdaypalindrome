@@ -25,6 +25,10 @@ h1 {
     color: teal;
 }
 
+h3 {
+    color: darkslategray;
+}
+
 #bday-input {
     size: 100%;
     width: 13rem;
